@@ -43,8 +43,8 @@
 # :computer: Technologies
 This project was made using the follow technologies:
 
-* [Node.js](https://nodejs.org/en/)    
-* [Puppeteer](https://github.com/puppeteer/puppeteer/)    
+* Javascript   
+* Typescript    
 
 # :rocket: Features
 
