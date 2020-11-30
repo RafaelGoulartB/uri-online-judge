@@ -20,7 +20,7 @@
   <img alt="" src="https://img.shields.io/github/repo-size/RafaelGoulartB/uri-online-judge?color=f6627e" />
 </p>
 
-> Web scrap made with Node.js and Puppeteer
+> 🎯 Some problems from URI online judge solved - Javascript
 
 <div align="center">
   <sub>The URI project. Built with ❤︎ by
